@@ -32,7 +32,7 @@ If you want to add translation or find any error or if you have any suggestions 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/WirelessAlien/Ramcharitmanas/blob/main/LICENSE.md) for more information.
+Distributed under the Unlicense License. See [LICENSE](https://github.com/WirelessAlien/Ramcharitmanas/blob/main/LICENSE.md) for more information.
 
 ## Acknowledgements
 
